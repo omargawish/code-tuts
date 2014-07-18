@@ -10,6 +10,6 @@ int sum (int number1,int number2){
 int main()
 
 {
-	cout << sum(1,2);
+	cout << sum(1,2)<<endl;
 
 }
